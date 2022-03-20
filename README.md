@@ -1,1 +1,2 @@
 # DDM2
+DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS Alves Pets - Temos o objetivo de facilitar o acesso de produtos ao seu bichinho, na Alves Pets você encontrará uma vasta variedade de produtos para uma boa alimentação, lazer, conforto e segurança do seu animalzinho. Na tela de login iremos receber e assegurar seus dados com segurança e te dando privacidade e confiança para navegar no Alves Pets. Temos a tela de cadastro se caso não tenha uma conta, logo após se cadastrar voltará a tela de login para confirmar se seus dados foram salvos.
